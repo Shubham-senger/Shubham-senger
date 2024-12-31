@@ -23,7 +23,7 @@
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, Express, GSAP Animations**
 - 🎨 Specialized in creating **smooth and interactive animations using GSAP**
 - 👨‍💻 All of my projects are available at [Portfolio Link]
-- 📫 How to reach me: **shubhamsenger710@gmail.com**
+- 📫 How to reach me: **shubhamsengar2303@gmail.com**
 
 ## 🛠️ Tech Stack
 <p align="center">
